@@ -1,0 +1,42 @@
+.tr1{
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+.tr2{
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+}
+.tr3{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.tr4{
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+}
+.td1{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-style: oblique;
+}
+td{
+    width: 100px;
+}
+.tab{
+    border-color: black;
+    border-radius: 2px;
+
+}
+h1{
+    text-align: center;
+
+}
+.div{
+    margin-left: 25%;
+}
